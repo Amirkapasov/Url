@@ -114,3 +114,4 @@ def text_message_handler (message):
         bot.send_message(user_id,"/start1 - кнопка назад" )
 
 bot.polling (none_stop=True)
+a = "s"
